@@ -17,24 +17,24 @@ always-reject-url-rewrite = false
 private-ip-answer = false
 
 [Proxy Group]
-🤖️ 人工智能 = select, 🚀 策略选择, select=0
-📲 Telegram = select, 🚀 策略选择, select=0
-📹 YouTube = select, 🚀 策略选择, select=0
-🎥 Netflix = select, 🚀 策略选择, select=0
-🎬 Disney+ = select, 🚀 策略选择, select=0
-🎻 Spotify = select, 🚀 策略选择, select=0
-📄 Twitter = select, 🚀 策略选择, select=0
-🪙 Paypal = select, 🚀 策略选择, select=0
-👤 Facebook = select, 🚀 策略选择, select=0
-📖 Reddit = select, 🚀 策略选择, select=0
-🐦 Discord = select, 🚀 策略选择, select=0
-🍿 国外媒体 = select, 🚀 策略选择, select=0
-🍔 国内媒体 = select, 🌐 全球直连, select=0
-📽 哔哩哔哩 = select, 🌐 全球直连, select=0
-🍟 新浪微博 = select, 🌐 全球直连, select=0
-Ⓜ️ 微软服务 = select, 🌐 全球直连, 🚀 策略选择, select=0
-🍎 苹果服务 = select, 🌐 全球直连, 🚀 策略选择, select=0
-🎮 游戏平台 = select, 🌐 全球直连, 🚀 策略选择, select=0
+🤖️ 人工智能 = select, 🚀 策略选择
+📲 Telegram = select, 🚀 策略选择
+📹 YouTube = select, 🚀 策略选择
+🎥 Netflix = select, 🚀 策略选择
+🎬 Disney+ = select, 🚀 策略选择
+🎻 Spotify = select, 🚀 策略选择
+📄 Twitter = select, 🚀 策略选择
+🪙 Paypal = select, 🚀 策略选择
+👤 Facebook = select, 🚀 策略选择
+📖 Reddit = select, 🚀 策略选择
+🐦 Discord = select, 🚀 策略选择
+🍿 国外媒体 = select, 🚀 策略选择
+🍔 国内媒体 = select, 🌐 全球直连
+📽 哔哩哔哩 = select, 🌐 全球直连
+🍟 新浪微博 = select, 🌐 全球直连
+Ⓜ️ 微软服务 = select, 🌐 全球直连, 🚀 策略选择
+🍎 苹果服务 = select, 🌐 全球直连, 🚀 策略选择
+🎮 游戏平台 = select, 🌐 全球直连, 🚀 策略选择
 🚀 策略选择 = select, PROXY
 🌐 全球直连 = select, DIRECT
 
